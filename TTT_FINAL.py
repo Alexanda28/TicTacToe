@@ -3,7 +3,7 @@ import random
 # Random module will be used for the computer moves. 
 
 """ Bugs/Errors listed below """
-# Bug: What happens when there is a draw? re scoreboard, re resetting tttBoard back to dashes -> Currently results in an indexError out of scope as it tries to get computers move
+# Bug: What happens when there is a draw? -> Currently results in an indexError out of scope as it tries to get computers move
 # Bug: When exiting the menu after a game played. It returns to main menu. Currently -> Temporary fix using exit() func. 
 # 
 #
